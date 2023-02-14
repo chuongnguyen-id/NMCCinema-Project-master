@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Backend/NMCCinema/src/main/java"/>
+	<classpathentry kind="src" path="Backend/NMCCinema/src/test/java"/>
+	<classpathentry kind="src" path="Source/movie-ticket-booking-system-Netbeans-master/movieticketbooking/src"/>
+	<classpathentry kind="src" path="Source/movie-ticket-booking-system-Netbeans-master/movieticketbooking/test"/>
+	<classpathentry kind="lib" path="Backend/NMCCinema/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Source/movie-ticket-booking-system-Netbeans-master/mysql-connector-java-5.1.37-bin.jar"/>
+	<classpathentry kind="lib" path="Source/movie-ticket-booking-system-Netbeans-master/rs2xml.jar"/>
+	<classpathentry kind="output" path="Backend/NMCCinema/target/classes"/>
+</classpath>
