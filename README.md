@@ -23,35 +23,35 @@ NMCCinema is a Java and ReactJS-based movie ticket booking website. The website 
 ## Screenshot
 
 Home Page
-<img src="https://github.com/chuongnguyen-id/NMCCinema-Project-master/blob/main/Image/Home 2.png" />
+<img src="https://github.com/chuongnguyen-id/readme-assets/blob/main/NMCCinema-Project-master/Home 2.png" />
 
 <details>
   <summary>More Screenshots</summary>
   
   Sign In Page
-  <img src="https://github.com/chuongnguyen-id/NMCCinema-Project-master/blob/main/Image/Sign In.png" />
+  <img src="https://github.com/chuongnguyen-id/readme-assets/blob/main/NMCCinema-Project-master/Sign In.png" />
 
   Sign Up Page
-  <img src="https://github.com/chuongnguyen-id/NMCCinema-Project-master/blob/main/Image/Sign Up.png" />
+  <img src="https://github.com/chuongnguyen-id/readme-assets/blob/main/NMCCinema-Project-master/Sign Up.png" />
   
   Movie Page
-  <img src="https://github.com/chuongnguyen-id/NMCCinema-Project-master/blob/main/Image/Movie Details.png" />
+  <img src="https://github.com/chuongnguyen-id/readme-assets/blob/main/NMCCinema-Project-master/Movie Details.png" />
 
   Booking Page
-  <img src="https://github.com/chuongnguyen-id/NMCCinema-Project-master/blob/main/Image/Payment.png" />
+  <img src="https://github.com/chuongnguyen-id/readme-assets/blob/main/NMCCinema-Project-master/Payment.png" />
 
   Profile Page
-  <img src="https://github.com/chuongnguyen-id/NMCCinema-Project-master/blob/main/Image/Profile.png" />
+  <img src="https://github.com/chuongnguyen-id/readme-assets/blob/main/NMCCinema-Project-master/Profile.png" />
 
   My Tickets Page
-  <img src="https://github.com/chuongnguyen-id/NMCCinema-Project-master/blob/main/Image/Tickets.png" />
+  <img src="https://github.com/chuongnguyen-id/readme-assets/blob/main/NMCCinema-Project-master/Tickets.png" />
   
   Account Management Page
-  <img src="https://github.com/chuongnguyen-id/NMCCinema-Project-master/blob/main/Image/Account Management.png" />
+  <img src="https://github.com/chuongnguyen-id/readme-assets/blob/main/NMCCinema-Project-master/Account Management.png" />
 
   Add Movie Page
-  <img src="https://github.com/chuongnguyen-id/NMCCinema-Project-master/blob/main/Image/Add Movie.png" />
+  <img src="https://github.com/chuongnguyen-id/readme-assets/blob/main/NMCCinema-Project-master/Add Movie.png" />
 
   Update Movie Page
-  <img src="https://github.com/chuongnguyen-id/NMCCinema-Project-master/blob/main/Image/Update Movie.png" />
+  <img src="https://github.com/chuongnguyen-id/readme-assets/blob/main/NMCCinema-Project-master/Update Movie.png" />
 </details>
